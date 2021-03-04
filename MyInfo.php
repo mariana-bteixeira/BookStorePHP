@@ -13,8 +13,6 @@ session_start();
 
 $sFileName = "MyInfo.php";
 
-
-
 check_security(1);
 
 $sFormErr = "";
